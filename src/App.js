@@ -8,6 +8,7 @@ import ServiceDetail from "./pages/services/ServiceDetail";
 import ServicesList from "./pages/services/ServicesList" 
 
 function App() {    
+  
     return (
    
         <div>
